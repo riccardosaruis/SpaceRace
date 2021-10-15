@@ -4,7 +4,7 @@
 </div>    
 
 <div style="float: float: left; margin-left: 1em, margin-right: 1em">
-    <img class="Space X Falcon 9" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Iridium-1_Launch_%2832312419215%29.jpg" width="300" alt="Space X Falcon 9">
+    <img class="Space X Falcon 9 First Stage Landing" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Iridium-1_Launch_%2832312419215%29.jpg" width="300" alt="Space X Falcon 9">
 </div>
 
 <div style="float: float: left; margin-left: 1em, margin-right: 1em">
